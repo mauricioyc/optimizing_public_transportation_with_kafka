@@ -6,7 +6,6 @@ env_labs
 *.ipynb_checkpoints
 *.cfg
 teste*.ipynb
-*.json
 *.gz
 producers/venv
 consumers/env_consumer
